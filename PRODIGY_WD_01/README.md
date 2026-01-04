@@ -2,7 +2,7 @@
 
 This project was given by Prodigy Infotech as Task 1.
 
-##Demo
+## Demo
 https://prodigy-internship-blue.vercel.app/
 
 ### Description
