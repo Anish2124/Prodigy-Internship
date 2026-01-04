@@ -1,0 +1,13 @@
+# Project README
+
+This project was given by [Prodigy Infotech] as Task 1.
+
+See [Demo]()
+
+## Description
+
+This project is an HTML webpage for a restaurant called MoonBird - Your dream cafe. It includes a section for the landing and a section for the menu.
+Landing page conation a carousel of images showing the food items and a button to order online. The menu section contains a list of food items with their prices.
+
+Languages used: HTML, CSS, JavaScript
+
