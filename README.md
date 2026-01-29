@@ -10,8 +10,8 @@ This repository contains all the tasks given by during my internship.
 |----|--------------|------------|------|-------------|
 | 1  | [MoonBird](./PRODIGY_WD_01) | **PRODIGY_WD_01** | <a href="https://prodigy-internship-blue.vercel.app/">Demo</a> | Responsive cafe landing page |
 | 2  | [Hour Glass](./PRODIGY_WD_02) | **PRODIGY_WD_02** | <a href="https://prodigy-iota.vercel.app/">Demo</a> | Stopwatch that also measures laps |
-| 3  | [Tic Tac Toe](./PRODIGY_WD_03) | **PRODIGY_WD_03** | <a href="https://your-demo-link-3.com" target="_blank">Demo</a> | Offline two-player game |
-| 4  | [Portfolio](./PRODIGY_WD_04) | **PRODIGY_WD_04** | <a href="https://your-demo-link-4.com" target="_blank">Demo</a> | Personal portfolio website |
+| 3  | [Tic Tac Toe](./PRODIGY_WD_03) | **PRODIGY_WD_03** | <a href="https://internship-ten-tan.vercel.app/">Demo</a> | Offline two-player game |
+| 4  | [Weather App](./PRODIGY_WD_05) | **PRODIGY_WD_05** | <a href="https://prodigy-internship-05.vercel.app/">Demo</a> | Weather App |
 
 ---
 
